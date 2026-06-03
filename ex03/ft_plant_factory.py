@@ -31,5 +31,3 @@ if __name__ == "__main__":
     for plant in plants:
         print("Created: ", end="")
         plant.show()
-
-
